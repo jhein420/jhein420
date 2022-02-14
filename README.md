@@ -8,7 +8,9 @@
 
 <h2> My skills </h2>
 <hr>
-https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
+<p> 
+  Many and varied.
+  </p>
 
 <!--
 
