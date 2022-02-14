@@ -1,4 +1,4 @@
-Welcome to my github profile, enjoy your stay.
+<h1> Welcome to my github profile, enjoy your stay. <h1>
 
 ![Header](https://github.com/jhein420/jhein420/blob/main/gondola.png "Header" )
 
@@ -10,4 +10,4 @@ My stats
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=jhein420" />
 
 My skills 
-
+https://img.shields.io/static/v1?message=PHP&color=orange
