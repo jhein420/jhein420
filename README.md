@@ -1,7 +1,5 @@
 <h1> Welcome to my github profile, enjoy your stay. </h1>
 
-![Header](https://github.com/jhein420/jhein420/blob/main/gondola.png "Header" )
-
 <h2>My stats</h2>
 <hr>
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=jhein420" />
