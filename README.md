@@ -1,5 +1,13 @@
 <h1> Welcome, enjoy your stay. </h1>
-
+<h2> Contact Me </h2>
+<div>
+  <p>
+    <ul>
+      <li>Find me on <a href ="https://www.upwork.com/freelancers/~016268a23082c944f8" > Upwork </a> </li>
+      <li>jhein420@protonmail.com</li>
+  </ul>
+  </p>
+ </div> 
 <div>
 <h2>My Stats</h2>
 <hr>
