@@ -61,9 +61,9 @@
  
 <div>
   <h2> Misc. Stuff I am Interested In </h2> 
+  <p> <a href="www.Privacy.io" >Privacy and Privacy Accessories</a> </p>
   <p> <img align="center" src="https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white"> </p>
   <p> <img align="center" src="https://img.shields.io/badge/F_Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white" > </p>
-  <p> <img align="center" src="https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white" > </p>
  
 </div>
 
