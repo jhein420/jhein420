@@ -5,6 +5,7 @@
     <ul>
       <li>Find me on <a href ="https://www.upwork.com/freelancers/~016268a23082c944f8" > Upwork </a> </li>
       <li>jhein420@protonmail.com</li>
+      <li>Find me on <a href ="https://www.linkedin.com/" >  LinkedIn</a> </li>
   </ul>
   </p>
  </div> 
