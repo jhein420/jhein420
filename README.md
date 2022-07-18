@@ -14,6 +14,10 @@
 <hr>
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=jhein420" />
 </div>
+<div>
+<hr>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhein420" />
+</div>
 
 <div>
 <h2> My Techical skills </h2>
