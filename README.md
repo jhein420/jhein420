@@ -6,6 +6,7 @@
       <li>Find me on <a href ="https://www.upwork.com/freelancers/~016268a23082c944f8" > Upwork </a> </li>
       <li>jhein420@protonmail.com</li>
       <li>Find me on <a href ="https://www.linkedin.com/" >  LinkedIn</a> </li>
+      <li>Check out my blog <a href=" https://jhein420.github.io/" > here </a> <li>
   </ul>
   </p>
  </div> 
