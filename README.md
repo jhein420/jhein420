@@ -6,10 +6,28 @@
       <li>Find me on <a href ="https://www.upwork.com/freelancers/~016268a23082c944f8" > Upwork </a> </li>
       <li>jhein420@protonmail.com</li>
       <li>Find me on <a href ="https://www.linkedin.com/" >  LinkedIn</a> </li>
-      <li>Check out my blog <a href="https://jhein420.github.io" > here </a> </li>
   </ul>
   </p>
  </div> 
+ <br/>
+ <div>
+   <p>
+     Hi, I am Justin, a Software Developer, Embedded IoT Enthusiast and a (Hopefully) open source contributor.
+     <br/>
+     [Portfolio]
+     <br/>
+     [Personal Projects]
+   </p>
+       **Projects I have contrivuted to **
+       <ul>
+         <li>none atm, still looking for something good in 2025</li>
+       </ul>
+         
+   </p>
+   <br/>
+    <img  alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZ6MDRuNXhmMGJreTh2NHN5Zm5xZGNkZXlkdzdlYXEwbjVyZmFreCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif" />
+    
+ </div>
 <div>
 <h2>My Stats</h2>
 <hr>
@@ -35,20 +53,17 @@
   <p> 
     <img align="center" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">
     <img align="center" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+    
   </p>
   
   <p> 
     <img align="center" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" >
     <img align="center" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" >
-    <img align="center" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
-    <img align="center" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
-    <img align="center" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi">
   </p>
 </div>
 <div>
   <h2>Tools I use </h2>
   <img align="center" src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF" >
-  <img align="center" src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black" >
   <img align="center" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" > 
   <img align="center" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white">
