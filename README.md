@@ -18,7 +18,7 @@
      <br/>
      [Personal Projects]
    </p>
-       **Projects I have contrivuted to **
+       **Projects I have contributed to **
        <ul>
          <li>none atm, still looking for something good in 2025</li>
        </ul>
