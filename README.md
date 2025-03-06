@@ -13,10 +13,18 @@
  <div>
    <p>
      Hi, I am Justin, a Software Developer, Embedded IoT Enthusiast and a (Hopefully) open source contributor.
+     <br>
+     [Currenlty Learning]
+     <ul>
+       <li></li>
+       <li></li>
+     </ul>
      <br/>
      [Portfolio]
+     <ul><li>Coming Soon</li></ul>
      <br/>
      [Personal Projects]
+     <ul><li>Coming Soon</li></ul>
    </p>
        **Projects I have contributed to **
        <ul>
@@ -24,29 +32,26 @@
        </ul>
          
    </p>
-   <br/>
-    <img  alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZ6MDRuNXhmMGJreTh2NHN5Zm5xZGNkZXlkdzdlYXEwbjVyZmFreCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif" />
-    
  </div>
 <div>
-<h2>My Stats</h2>
-<hr>
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=jhein420" />
+  <h2>My Stats</h2>
+  <hr>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=jhein420" />
 </div>
 <div>
-<hr>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhein420" />
+  <hr>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhein420" />
 </div>
 
 <div>
-<h2> My Techical skills </h2>
-<hr>
+  <h2> My Techical skills </h2>
+  <hr>
   <p> 
     <img align="center" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
     <img align="center" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-    <img align="center" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
     <img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
     <img align="center" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
     <img align="center" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   </p>
   
