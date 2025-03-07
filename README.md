@@ -16,7 +16,7 @@
      <br>
      [Currenlty Learning and Reading]
      <ul>
-       <li>Structure and Interpretation of Computer Programs,Hal Abelson_ Gerald Jay Sussman ,MIT Press (2002)</li>
+       <li>Structure and Interpretation of Computer Programs (SICP),Hal Abelson_ Gerald Jay Sussman ,MIT Press (2002)</li>
        <li>Algorithmic Graph Theory and Sage by David Joyner, Minh Van Nguyen, David Phillips</li>
        <li>Design Patterns Elements of Reusable Object-Oriented Software Produced by KevinZhang</li>
      </ul>
@@ -25,11 +25,16 @@
      <ul><li>Coming Soon</li></ul>
      <br/>
      [Personal Projects]
-     <ul><li>Coming Soon</li></ul>
+     <ul><li>Applyig Solutions while working through Algorithmic Graph Theory and Sage, using Python</li>
+         <li>SICP using Scheme </li>
+         <li>Scraping more sites with my web-scraper using Beautiful Soup or Node.js</li>
+         <li>RTOS system using ESP32</li>
+     </ul>
    </p>
-       **Projects I have contributed to **
+       **Projects I have been looking too contributed to in 2025 **
        <ul>
-         <li>none atm, still looking for something good in 2025</li>
+         <li>SumatraPDF </li>
+         <li> MPV player </li>
        </ul>
          
    </p>
