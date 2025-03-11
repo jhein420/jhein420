@@ -31,7 +31,7 @@
          <li>RTOS system using ESP32</li>
      </ul>
    </p>
-       **Projects I have been looking too contributed to in 2025 **
+       **Projects I have been looking too contribute to in 2025 **
        <ul>
          <li>SumatraPDF </li>
          <li> MPV player </li>
